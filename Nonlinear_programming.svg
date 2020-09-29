@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg width="345px" height="345px" version="1.1" viewBox="0 0 115 115" xmlns="http://www.w3.org/2000/svg">
+<title>Nonlinear programming example</title>
+<g fill="none" stroke="#000">
+	<rect x="1" y="1" width="100" height="100"/>
+	<path d="M101,101 l-100,-100"/>
+	<path d="M51,101 A50,50 0 0,0 1,51 V30.289 
+		A70.711,70.711 0 0,1 71.711,101z" fill="#7CF"/>
+</g>
+<g font-size="12" fill="#000" font-family="times">
+	<text x="1" y="112">0<tspan x="49" font-style="italic">x</tspan><tspan x="98">2</tspan></text> 
+	<text x="103" y="101">0</text><text x="103" y="55" font-style="italic">y</text><text x="103" y="9">2</text>
+</g>
+</svg>
